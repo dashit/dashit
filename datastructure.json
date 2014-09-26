@@ -1,0 +1,49 @@
+{
+  "repos": [
+    {
+      "name": "Django CMS",
+      "shortname": "CMS",
+      "slug": "divio/django-cms",
+      "last_build_started": "2014-09-25T21:36:01Z",
+      "last_build_started_human": "9 hours ago",
+      "last_build_state": "running",
+      "last_build_duration": "7m 13s",
+      "builds": [
+        {
+          "timestamp": "2014-09-26 08:35:21",
+          "duration": "5m 33s",
+          "state": "passed"
+        },
+        {
+          "timestamp": "2014-09-25 08:00:00",
+          "duration": "1h 31m",
+          "state": "failed"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "now": {
+      "passed": 100,
+      "failed": 20,
+      "running": 2,
+      "errored": 3
+    },
+    "day": {
+      "passed": 100,
+      "failed": 20,
+      "errored": 3
+    },
+    "week": {
+      "passed": 300,
+      "failed": 80,
+      "errored": 10
+    },
+    "month": {
+      "passed": 1550,
+      "failed": 341,
+      "errored": 60
+    }
+  },
+  "now": "2014-09-26 08:45:21"
+}
